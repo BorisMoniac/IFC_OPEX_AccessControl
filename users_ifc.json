@@ -1,0 +1,24 @@
+{
+    "allowed_serials": [
+        "0025_38D3_1141_277E.",
+        "",
+        ""
+    ],
+    "allowed_code_words": [
+        "УТИМ"
+    ],
+    "users": [
+        {
+            "serial_number": "0025_38D3_1141_277E.",
+            "username": "Фатеев Борис"
+        },
+        {
+            "serial_number": "",
+            "username": ""
+        },
+        {
+            "serial_number": "123456ABCDEF",
+            "username": ""
+        }
+    ]
+}
